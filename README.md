@@ -79,7 +79,7 @@ git reset --hard origin/master
 git pull
 ```
 
-## 直接运行
+## 直接运行（仅Linux）
 ```shell
 ln -s $PWD/main.py /usr/local/bin/aliupload
 aliupload
