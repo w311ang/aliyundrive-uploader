@@ -78,6 +78,12 @@ git fetch --all
 git reset --hard origin/master 
 git pull
 ```
+
+## 直接调用运行
+```shell
+ln -s $PWD/main.py /usr/local/bin/aliupload
+aliupload
+```
 ## 文件解读
 * `config.json` 
   * 脚本配置文件
