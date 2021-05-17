@@ -71,7 +71,7 @@ python3 main.py /www/wwwroot/download/
 python3 main.py /www/lixiaoen.jpg
 ```
 
-### 直接运行（仅Linux）
+### 安装（仅Linux）
 ```shell
 ln -s $PWD/main.py /usr/local/bin/aliupload
 aliupload
